@@ -11,3 +11,5 @@
 ![Screenshot (811)](https://github.com/user-attachments/assets/dc50f457-ca9e-4e7b-b7f8-9dcbd15310a1)
 ![Screenshot (812)](https://github.com/user-attachments/assets/e9893a20-e8f3-4d63-8169-f477b33369f1)
 ![Screenshot (813)](https://github.com/user-attachments/assets/1e302f8d-b2af-4726-8e39-b30f9f9b6ba5)
+### Other Data Visualization Project 
+[Covid19 Analysis](https://github.com/YashHatwargit/TableauDesktop-Covid19?tab=readme-ov-file#tableaudesktop-covid19)
